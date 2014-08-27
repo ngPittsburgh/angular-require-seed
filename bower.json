@@ -1,0 +1,16 @@
+{
+  "name": "module-demo",
+  "version": "0.0.0",
+  "authors": [
+    "Steve Ayers <smaye81@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
