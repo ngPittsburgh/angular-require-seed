@@ -1,5 +1,5 @@
 {
-  "name": "module-demo",
+  "name": "angular-require-seed",
   "version": "0.0.0",
   "authors": [
     "Steve Ayers <smaye81@gmail.com>"
@@ -12,5 +12,9 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "angular": "~1.2.23",
+    "angular-ui-router": "~0.2.11"
+  }
 }
