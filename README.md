@@ -14,6 +14,3 @@ To install, simply clone repo and then from project root run:
 `npm install`
 `bower install`
 
-To Do:
-1.  Add test framework
-2.  Add gulp support
