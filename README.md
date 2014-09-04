@@ -8,3 +8,8 @@ Uses the following:
 * Angular
 * Angular UI Router
 * RequireJS
+
+To install, simply clone repo and then from project root run:
+
+`npm install`
+`bower install`
