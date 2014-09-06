@@ -13,3 +13,4 @@ To install, simply clone repo and then from project root run:
 
 `npm install`
 `bower install`
+
