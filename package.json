@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "requirejs": "^2.1.14"
+    "requirejs": "^2.1.14",
+    "karma": "^0.12.23",
+    "karma-jasmine": "^0.1.5",
+    "karma-requirejs": "^0.2.2",
+    "karma-phantomjs-launcher": "^0.1.4"
   }
 }
