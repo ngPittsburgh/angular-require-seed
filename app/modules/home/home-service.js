@@ -8,7 +8,7 @@ define(function () {
     }
 
     HomeService.prototype.getLocation = function () {
-        return "World";
+        return "Require";
     };
 
     return [HomeService];
